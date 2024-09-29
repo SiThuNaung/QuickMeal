@@ -1,3 +1,10 @@
+developer by 
+Si Thu Naung(id-6530287)
+Here you can share the recipe of the meal you like.
+I also try to add admin side to delte mess up recipe but there is still abit error in api
+To be improved ...
+
+
 # Product App
 Next.js 14
 This app shows
