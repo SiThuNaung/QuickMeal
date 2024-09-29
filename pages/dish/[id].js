@@ -41,9 +41,10 @@ export default function DishDetail() {
           <li key={index}>{ingredient.ingredient}: {ingredient.amount}</li>
         ))}
       </ul>
-
+        
       <h2 className="text-2xl font-bold mt-4">How to Cook</h2>
       <p>{dish.how_to_cook}</p>
+      
     </div>
   );
 }
